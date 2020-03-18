@@ -1,5 +1,5 @@
 
-# telegram-notification
+# Telegram Notification
 **Send a notification to Telegram from bash or python:**
 
  1. configure Telegram bot
