@@ -22,7 +22,6 @@
  
 **..and you are ready!**
 
-    sh some_script.sh
     python -m notify --message="Hello world! :)" --token_id="0123456:78910" --chat_id="12345"
 
 To avoid passing the arguments `--token_id` and `--chat_id` through command line, you can directly modify the varaibles `TELEGRAM_TOKEN_ID` and `TELEGRAM_CHAT_ID` in the script notify.py 
