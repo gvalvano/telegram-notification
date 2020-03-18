@@ -13,12 +13,12 @@
 
 ## **Set-up:**
 
- 1. Search the "BotFather" on Telegram. This is the official bot that allows you to create other bots.  
+ 1. Open Telegram and search "BotFather" in the search bar. This is the official bot that allows you to create other bots.  
  2. Create new bot: `/newbot`
  3. Choose a name for your bot: `ScriptNotifier`
  4. Choose a username for your bot that must end with "_bot": `script_notifier_bot`  
- 5. Once the bot is created, you will have a long string that is the TOKEN ID
- 6. The bot will send you messages on a specific chat, that you need to create. Go to Telegram search bar, on your smartphone, and search your bot. Then, start the bot: `/start` 
+ 5. Once the bot is created, you will have a long string: this is the TOKEN ID
+ 6. The bot will send you messages on a specific chat that you need to create. Go to Telegram search bar, on your smartphone, and search your bot (e.g. ScriptNotifier). Then, start the bot: `/start` 
  
 **..and you're ready to go!**
 
