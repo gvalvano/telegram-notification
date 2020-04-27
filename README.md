@@ -17,9 +17,9 @@
  2. Create new bot: `/newbot`
  3. Choose a name for your bot: `ScriptNotifier`
  4. Choose a username for your bot that must end with "_bot": `script_notifier_bot`  
- 5. Once the bot is created, you will have a long string: this is the TOKEN ID
+ 5. Once the bot is created, you will have a long string: this is the TOKEN-ID
  6. The bot will send you messages on a specific chat that you need to create. Go to Telegram search bar, on your smartphone, and search your bot (e.g. ScriptNotifier). Then, start the bot: `/start` 
- 7. Finally, search for your CHAT ID by going to the bot webpage: https://api.telegram.org/bot[TOKEN ID]/getUpdates
+ 7. Finally, search for your CHAT-ID by going to the bot webpage: https://api.telegram.org/bot[TOKEN-ID]/getUpdates
  
 **..and you're ready to go!**
 
